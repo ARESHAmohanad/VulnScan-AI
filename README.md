@@ -37,3 +37,5 @@
 git clone https://github.com/seu-usuario/VulnScan-AI.git
 cd VulnScan-AI
 pip install -r requirements.txt
+python3 ZANDO.py
+

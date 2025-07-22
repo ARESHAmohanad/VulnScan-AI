@@ -4,7 +4,7 @@
 
 **VulnScan AI** é uma ferramenta de auditoria de segurança automatizada que utiliza inteligência artificial (GPT via OpenRouter) para escanear código-fonte e identificar vulnerabilidades de forma inteligente, com interface gráfica moderna e suporte multilíngue.
 
-![Interface](https://user-images.githubusercontent.com/ARESHAmohanad/vulnscan-ai.png) <!-- (adicione captura de tela do app) -->
+![Interface](https://github.com/ARESHAmohanad/vulnscan-ai.png) <!-- (adicione captura de tela do app) -->
 
 ---
 
